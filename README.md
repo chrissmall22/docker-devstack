@@ -12,7 +12,7 @@
         docker run -d -p 80:80 -p 5000:5000 --name my-devstack devstack
         
         # or
-        docker run -d -p 80:80 -p 5000:5000 --name nguoianphu-devstack nguoianphu/docker-devstack
+        docker run -d -p 80:80 -p 5000:5000 --name chrissmall22-devstack chrissmall22/docker-devstack
         
 ### When the script finishes executing, you should be able to access OpenStack endpoints, like so:
 
