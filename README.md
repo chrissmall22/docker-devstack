@@ -1,6 +1,6 @@
 # Docker DevStack image
 
-[![Build Status](https://travis-ci.org/nguoianphu/docker-devstack.svg?branch=master)](https://travis-ci.org/nguoianphu/docker-devstack)
+[![Build Status](https://travis-ci.org/chrissmall22/docker-devstack.svg?branch=master)](https://travis-ci.org/chrissmall22/docker-devstack)
 [![](https://images.microbadger.com/badges/image/nguoianphu/docker-devstack.svg)](http://microbadger.com/images/nguoianphu/docker-devstack "Get your own image badge on microbadger.com")
 
 
